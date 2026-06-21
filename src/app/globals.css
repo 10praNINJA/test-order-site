@@ -1,0 +1,10 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background: #F7F3EE;
+  color: #1A1714;
+}
+
+a { color: inherit; }
